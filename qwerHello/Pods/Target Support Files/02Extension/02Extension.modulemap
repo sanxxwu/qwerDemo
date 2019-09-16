@@ -1,6 +1,0 @@
-framework module O2View {
-  umbrella header "02Extension-umbrella.h"
-
-  export *
-  module * { export * }
-}
